@@ -1,0 +1,4 @@
+*.pyc
+*.tsv
+*.idea
+*.w2v
